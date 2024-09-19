@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://feuvtyze.github.io/sitemap/sitemap.txt
